@@ -1,0 +1,3 @@
+[submodule "mern-blogging-website"]
+	path = mern-blogging-website
+	url = https://github.com/Sobanhanif4/mern-blogging-website.git
